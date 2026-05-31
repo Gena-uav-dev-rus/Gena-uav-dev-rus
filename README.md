@@ -34,11 +34,6 @@ Currently working on next-generation drone navigation stack: **ROS 2 + ORB-SLAM3
 
 ## Featured projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [global-fusion-node](https://github.com/Gena-uav-dev-rus/global-fusion-node) | Multi-sensor EKF fusion: GPS + VIO + LiDAR with anti-spoofing | C++ · ROS · Eigen |
-| [autonomous-drone-missions](https://github.com/Gena-uav-dev-rus/autonomous-drone-missions) | Autonomous flight missions with ballistic drop physics | Python · ROS · PX4 |
-| [lstm-sensor-fusion](https://github.com/Gena-uav-dev-rus/lstm-sensor-fusion) | LSTM networks for adaptive Kalman filter noise estimation | PyTorch · ROS 2 |
 
 ---
 
