@@ -1,16 +1,54 @@
-## Hi there 👋
+# Gena — UAV Systems Engineer 🚁
 
-<!--
-**Gena-uav-dev-rus/Gena-uav-dev-rus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Autonomous drone systems developer with hands-on experience building and programming both aerial and ground unmanned vehicles from scratch — hardware assembly, flight controllers, autonomous navigation, and AI-powered sensor fusion.
 
-Here are some ideas to get you started:
+Currently working on next-generation drone navigation stack: **ROS 2 + ORB-SLAM3 + LSTM adaptive sensor fusion**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I build
+
+- **Autonomous flight systems** — PX4-based quadcopters with full offboard control via ROS
+- **Visual-Inertial Odometry** — custom VIO pipeline (VINS-Mono → ORB-SLAM3) with GPU acceleration
+- **Sensor Fusion** — GPS + VIO + LiDAR fusion with C++ EKF, GPS anti-spoofing, multi-thread architecture
+- **Neural sensor noise estimation** — LSTM networks that adaptively tune Kalman filter trust in each sensor in real time
+- **Mission scripting** — autonomous flight scripts including ballistic payload drop with physics simulation
+
+---
+
+## Tech stack
+
+![ROS](https://img.shields.io/badge/ROS%201%2F2-22314E?style=flat&logo=ros&logoColor=white)
+![C++](https://img.shields.io/badge/C++17-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![PX4](https://img.shields.io/badge/PX4-Autopilot-purple?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+**Navigation:** PX4 · MAVROS · VIO · ORB-SLAM3 · VINS-Mono  
+**AI / ML:** PyTorch · LSTM · Kalman Filter · Sensor Fusion  
+**Hardware:** Quadcopters · UGV · Arduino · Raspberry Pi · Jetson  
+**Tools:** Gazebo · Git · Docker · Linux
+
+---
+
+## Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [global-fusion-node](https://github.com/Gena-uav-dev-rus/global-fusion-node) | Multi-sensor EKF fusion: GPS + VIO + LiDAR with anti-spoofing | C++ · ROS · Eigen |
+| [autonomous-drone-missions](https://github.com/Gena-uav-dev-rus/autonomous-drone-missions) | Autonomous flight missions with ballistic drop physics | Python · ROS · PX4 |
+| [lstm-sensor-fusion](https://github.com/Gena-uav-dev-rus/lstm-sensor-fusion) | LSTM networks for adaptive Kalman filter noise estimation | PyTorch · ROS 2 |
+
+---
+
+## Currently learning
+
+- ROS 2 Jazzy · Gazebo Harmonic
+- ORB-SLAM3 with SuperPoint neural descriptors
+- Depth Anything v2 — monocular depth for altitude estimation
+
+---
+
+📍 Relocating to Vietnam · Open to UAV / Robotics opportunities  
+📬 Reach me on [LinkedIn](https://linkedin.com/in/gena-uav) <!-- замени на свою ссылку -->
