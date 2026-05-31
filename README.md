@@ -32,10 +32,7 @@ Currently working on next-generation drone navigation stack: **ROS 2 + ORB-SLAM3
 
 ---
 
-## Featured projects
 
-
----
 
 ## Currently learning
 
@@ -46,4 +43,4 @@ Currently working on next-generation drone navigation stack: **ROS 2 + ORB-SLAM3
 ---
 
 📍 Relocating to Vietnam · Open to UAV / Robotics opportunities  
-📬 Reach me on [LinkedIn](https://linkedin.com/in/gena-uav) <!-- замени на свою ссылку -->
+📬 Reach me on mail sqwaerr032@gmail.com
