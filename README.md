@@ -1,6 +1,6 @@
 # Gena — UAV Systems Engineer 🚁
 
-Autonomous drone systems developer with hands-on experience building and programming both aerial and ground unmanned vehicles from scratch — hardware assembly, flight controllers, autonomous navigation, and AI-powered sensor fusion.
+Autonomous drone systems developer with hands-on experience building and programming both aerial and ground unmanned vehicles from scratch — hardware assembly, flight controllers, autonomous navigation, and intelligent sensor fusion.
 
 Currently working on next-generation drone navigation stack: **ROS 2 + ORB-SLAM3 + LSTM adaptive sensor fusion**.
 
@@ -16,6 +16,14 @@ Currently working on next-generation drone navigation stack: **ROS 2 + ORB-SLAM3
 
 ---
 
+## Experience with platforms
+
+- **COEX Clover** — worked with educational drone platform, ROS-based autonomy research
+- **PX4 Autopilot** — custom flight controller implementations
+- **Raspberry Pi / Jetson embedded systems** — real-time autonomous navigation
+
+---
+
 ## Tech stack
 
 ![ROS](https://img.shields.io/badge/ROS%201%2F2-22314E?style=flat&logo=ros&logoColor=white)
@@ -25,14 +33,12 @@ Currently working on next-generation drone navigation stack: **ROS 2 + ORB-SLAM3
 ![PX4](https://img.shields.io/badge/PX4-Autopilot-purple?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-**Navigation:** PX4 · MAVROS · VIO · ORB-SLAM3 · VINS-Mono  
+**Navigation:** PX4 · MAVROS · VIO · ORB-SLAM3 · VINS-Mono · COEX Clover  
 **AI / ML:** PyTorch · LSTM · Kalman Filter · Sensor Fusion  
 **Hardware:** Quadcopters · UGV · Arduino · Raspberry Pi · Jetson  
 **Tools:** Gazebo · Git · Docker · Linux
 
 ---
-
-
 
 ## Currently learning
 
